@@ -1,4 +1,4 @@
-#Simple_GAN
+# Simple_GAN
 
 This is an simple Implementation of GAN by pytorch for MNIST Dataset.
 
